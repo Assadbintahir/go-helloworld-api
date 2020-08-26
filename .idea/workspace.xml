@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c648be5d-b601-40de-87ff-9b2c0424d3f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/go-helloworld-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T021017.400.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T021033.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T021037.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T021043.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T021158.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T021533.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T021535.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T021554.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T021556.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T022240.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T022547.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T035454.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T040324.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T040807.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T043748.404.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T043759.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T043806.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100253.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100303.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100304.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100306.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100307-1.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100307.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100308.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100309-1.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100309.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100310.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100311-1.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100311.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100315.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100316.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100317.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100318.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100327.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100328.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100329-1.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100329.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100330.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100331.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100332.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T100333.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T101750.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T101751.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T101752.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-25T101820.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-26T072412.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-26T072629.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2020-08-26T072636.200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/certs/localhost-key.key" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/certs/localhost.crt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage/homepage.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homepage/homepage_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests.http" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/server.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="HTTP Request" />
+        <option value="HTTP Public Environment File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/.gvm/gos/go1.15" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1gZmdlQ17pAw1852N14GTbXhM7Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homepage" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="GoMoveDeclarationDialog.RECENT_KEY">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/certs" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://localhost:8080/home" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="https://localhost:8080" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://local.localhost:8080" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.requests#1">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="go-helloworld-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="awesome-project" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build helloworld" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="go-helloworld-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <envs>
+        <env name="CertFile" value="certs/localhost.crt" />
+        <env name="CertKeyFile" value="certs/localhost-key.key" />
+        <env name="ServerAddress" value=":8080" />
+      </envs>
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="go-helloworld-api" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestHomePageHandler" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true">
+      <module name="go-helloworld-api" />
+      <working_directory value="$PROJECT_DIR$/homepage" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="go-helloworld-api/homepage" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestHomePageHandler\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="go-helloworld-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <package value="awesome-project" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="requests#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/requests.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Test.TestHomePageHandler" />
+      <item itemvalue="HTTP Request.requests#1" />
+      <item itemvalue="Go Build.go build helloworld" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.requests#1" />
+        <item itemvalue="Go Build.go build helloworld" />
+        <item itemvalue="Go Test.TestHomePageHandler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="483" y="46" key="#GOPATH" timestamp="1598330602691">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="483" y="46" key="#GOPATH/0.27.1366.741@0.27.1366.741" timestamp="1598330602691" />
+    <state x="216" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598453383506">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="216" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1598453383506" />
+    <state x="470" y="92" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1598345898560">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="470" y="92" key="#com.intellij.ide.macro.MacrosDialog/0.27.1366.741@0.27.1366.741" timestamp="1598345898560" />
+    <state x="342" y="112" width="680" height="656" key="EditFileWatcherDialog" timestamp="1598331016294">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="342" y="112" width="680" height="656" key="EditFileWatcherDialog/0.27.1366.741@0.27.1366.741" timestamp="1598331016294" />
+    <state x="544" y="138" key="EnvironmentVariablesDialog" timestamp="1598346577690">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="544" y="138" key="EnvironmentVariablesDialog/0.27.1366.741@0.27.1366.741" timestamp="1598346577690" />
+    <state width="1320" height="192" key="GridCell.Tab.0.bottom" timestamp="1598454103305">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="192" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1598454103305" />
+    <state width="1320" height="192" key="GridCell.Tab.0.center" timestamp="1598454103305">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="192" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1598454103305" />
+    <state width="1320" height="192" key="GridCell.Tab.0.left" timestamp="1598454103304">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="192" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1598454103304" />
+    <state width="1320" height="192" key="GridCell.Tab.0.right" timestamp="1598454103305">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="192" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1598454103305" />
+    <state x="184" y="27" key="SettingsEditor" timestamp="1598331416250">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="184" y="27" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1598331416250" />
+    <state x="465" y="179" width="436" height="413" key="com.goide.refactor.move.GoMoveDeclarationDialog" timestamp="1598352808771">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="465" y="179" width="436" height="413" key="com.goide.refactor.move.GoMoveDeclarationDialog/0.27.1366.741@0.27.1366.741" timestamp="1598352808771" />
+    <state x="462" y="76" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598330871504">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="462" y="76" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1598330871504" />
+    <state x="0" y="27" width="594" height="741" key="find.popup" timestamp="1598331643848">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="594" height="741" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1598331643848" />
+  </component>
+</project>
